@@ -15,7 +15,7 @@ In 3ds Max: **AH3 Hub > Settings > About > Check for Updates**
 
 | Field | Description |
 |-------|-------------|
-| `version` | Latest version string (e.g. `1.8.4.61`) |
+| `version` | Latest version string (e.g. `1.8.4.xx`) |
 | `url` | Direct download URL for the `.ah3` update package |
 | `sha256` | SHA-256 hash of the `.ah3` file for integrity check |
 | `date` | Release date (YYYY-MM-DD) |
