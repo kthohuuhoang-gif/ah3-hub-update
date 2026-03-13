@@ -1,7 +1,7 @@
 {
   "version": "1.8.4.65",
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.65/AH3_Hub_v1.8.4_Update.ah3",
-  "sha256": "d18fde1526fd1a4bd8794c4223eabf828ca17d9fe78ae57dcc04e9cb2c9b856e",
+  "sha256": "100297ef4441247820a925268f33032b0ae1680e7de0a505388e88ff6835f60b",
   "date": "2026-03-13",
-  "notes": "Auto-Update support"
+  "notes": "Them tinh nang auto update vao trong bang setting"
 }
