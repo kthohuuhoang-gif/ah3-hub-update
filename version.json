@@ -1,7 +1,7 @@
 {
   "version": "1.8.4.68",
-  "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.68/AH3_Hub_v1.8.4_Update.ah3",
-  "sha256": "af6802556bb81a19b6836fd70cddf8ab0db7826f89175a2abad7ebe7bf1c547b",
+  "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.65/AH3_Hub_v1.8.4_Update.ah3",
+  "sha256": "af6802556bb81a19b6836fd70cddf...",
   "date": "2026-03-14",
-  "notes": "v1.8.4.68: Fix I2I download fail, fix auto-startup access denied, DOM fallback selectors. Luu y: Ban 1.8.4.65 tro xuong nen manual update tu Drive. Tu 1.8.4.67 tro di dung Auto-Update binh thuong."
+  "notes": "Fix I2I download fail (Nano Banana 2), fix auto-startup access denied, tang cuong DOM fallback selectors. Luu y: Ban 1.8.4.65 tro xuong nen manual update tu Drive. Tu 1.8.4.67 tro di dung Auto-Update binh thuong."
 }
