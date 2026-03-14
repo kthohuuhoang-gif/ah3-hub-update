@@ -1,7 +1,7 @@
 {
-  "version": "1.8.4.68",
-  "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.68/AH3_Hub_v1.8.4_Update.ah3",
-  "sha256": "af6802556bb81a19b6836fd70cddf8ab0db7826f89175a2abad7ebe7bf1c547b",
+  "version": "1.8.4.70",
+  "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.70/AH3_Hub_v1.8.4_Update.ah3",
+  "sha256": "cfa3705fad721da00d3d882b7574fc3d46b2bcce49481c3a9f13ef69fcdeadd8",
   "date": "2026-03-14",
-  "notes": "Fix I2I download fail (Nano Banana 2), fix auto-startup access denied, tang cuong DOM fallback selectors. Luu y: Ban 1.8.4.65 tro xuong nen manual update tu Drive. Tu 1.8.4.67 tro di dung Auto-Update binh thuong."
+  "notes": "Nang cap tao anh (3 muc chat luong) + Viewport thong minh (tu crop theo Render Setup). Tang do on dinh tao anh 3k va chuyen sang link du phong neu tao anh 3k that bai. Luu y: Ban 1.8.4.65 tro xuong nen manual update tu Drive. Tu 1.8.4.67 tro di dung Auto-Update binh thuong"
 }
