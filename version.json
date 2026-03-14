@@ -1,7 +1,7 @@
 {
-  "version": "1.8.4.67",
-  "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.67/AH3_Hub_v1.8.4_Update.ah3",
-  "sha256": "91bc03d3d00c8ee9cc155deb261729500166ab405bb7e36948d669b5b6584fb8",
-  "date": "2026-03-13",
-  "notes": "Ban cap nhat v1.8.4.67 - Dieu chinh va sua loi he thong Auto-Update cho tuong lai. Nang cap co che I2A Asset chinh xac va nhanh hon. Cac ban dang dung 1.8.4.65 nen vao link Drive trong nhom Zalo de manual update cho sach hon, hoac lien he admin ho tro. Tu ban 1.8.4.67 tro di, yen tam su dung va co the dung tinh nang Auto-Update binh thuong"
+  "version": "1.8.4.68",
+  "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.68/AH3_Hub_v1.8.4_Update.ah3",
+  "sha256": "af6802556bb81a19b6836fd70cddf8ab0db7826f89175a2abad7ebe7bf1c547b",
+  "date": "2026-03-14",
+  "notes": "v1.8.4.68: Fix I2I download fail, fix auto-startup access denied, DOM fallback selectors. Luu y: Ban 1.8.4.65 tro xuong nen manual update tu Drive. Tu 1.8.4.67 tro di dung Auto-Update binh thuong."
 }
