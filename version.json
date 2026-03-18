@@ -1,7 +1,7 @@
 {
   "version": "1.8.4.77",
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.latest/AH3_Hub_v1.8.4_Update.ah3",
-  "sha256": "5a6e7eeb0492bb690ad859d571fd330abae470d76f6ab17882ddd7b811ac257b",
+  "sha256": "0fe066f8e3d0b1d24fcb0abcd140942da760f81ce7a24696ebda83980c6c2ff9",
   "date": "2026-03-18",
   "notes": "AH3 Hub v1.8.4.77 (2026-03-18) Nang cap I2A Visual Asset Search: ho tro index Model, Scene, HDRI voi smart preview detection. Them Cosmos Pro visual search + one-click 3D import. Smart Merge tu dong relink texture (50 lan/ngay mien phi). Library Manager quan ly thu muc da index. HDRI Apply truc tiep vao scene (V-Ray/Corona). Toi uu tai anh nhanh hon. Fix: Right-click context menu tren tat ca tab AI Studio (loi private access trong ban .mse build). Fix I2A backend cho model/scene/HDRI indexing. Fix orphan DB records khi xoa folder. Fix Cosmos renderer matching (V-Ray vs Corona). Them canh bao khi renderer khong phai V-Ray/Corona truoc khi import Cosmos. Luu y: Ban 1.8.4.65 tro xuong nen manual update tu Drive. Tu 1.8.4.67 tro di dung Auto-Update binh thuong."
 }
