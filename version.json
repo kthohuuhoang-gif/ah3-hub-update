@@ -1,7 +1,7 @@
 {
-  "version": "1.8.4.75",
+  "version": "1.8.4.76",
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.latest/AH3_Hub_v1.8.4_Update.ah3",
-  "sha256": "b65436627bb76e40ffdb8830e0bb439591f1fddf73e81e3402b0b6b2f4717378",
+  "sha256": "6d3c3ad9773c3abc7dcd0e06d7030b53f9d6b62a2184633a13db571d4aa2c071",
   "date": "2026-03-18",
-  "notes": "Nang cap I2A Visual Asset Search, Smart Merge 50/day free, Cosmos Pro, Library Manager, HDRI Apply, image load optimization. Luu y: Ban 1.8.4.65 tro xuong nen manual update tu Drive. Tu 1.8.4.67 tro di dung Auto-Update binh thuong"
+  "notes": "Fix: Right-click context menu on all AI Studio tabs (private access in .mse build). Nang cap I2A Visual Asset Search, Smart Merge 50/day free, Cosmos Pro, Library Manager, HDRI Apply, image load optimization. Fix: Right-click context menu on all AI Studio tabs. Luu y: Ban 1.8.4.65 tro xuong nen manual update tu Drive. Tu 1.8.4.67 tro di dung Auto-Update binh thuong."
 }
