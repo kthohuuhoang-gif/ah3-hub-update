@@ -1,7 +1,7 @@
 {
-  "version": "1.8.4.70",
-  "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.70/AH3_Hub_v1.8.4_Update.ah3",
-  "sha256": "cfa3705fad721da00d3d882b7574fc3d46b2bcce49481c3a9f13ef69fcdeadd8",
-  "date": "2026-03-14",
-  "notes": "Nang cap tao anh (3 muc chat luong) + Viewport thong minh (tu crop theo Render Setup). Tang do on dinh tao anh 3k va chuyen sang link du phong neu tao anh 3k that bai. Luu y: Ban 1.8.4.65 tro xuong nen manual update tu Drive. Tu 1.8.4.67 tro di dung Auto-Update binh thuong"
+  "version": "1.8.4.75",
+  "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.latest/AH3_Hub_v1.8.4_Update.ah3",
+  "sha256": "b65436627bb76e40ffdb8830e0bb439591f1fddf73e81e3402b0b6b2f4717378",
+  "date": "2026-03-18",
+  "notes": "Nang cap I2A Visual Asset Search, Smart Merge 50/day free, Cosmos Pro, Library Manager, HDRI Apply, image load optimization. Luu y: Ban 1.8.4.65 tro xuong nen manual update tu Drive. Tu 1.8.4.67 tro di dung Auto-Update binh thuong"
 }
