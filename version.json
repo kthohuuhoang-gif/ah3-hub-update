@@ -3,5 +3,5 @@
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.latest/AH3_Hub_v1.8.4_Update.ah3",
   "sha256": "a22f0a68f30f352ed3faf52ce1dbc461193eaa1fc6d04970b2f379cf54d41f27",
   "date": "2026-03-20",
-  "notes": "v1.8.4.80 - Hotfix AI Assist + Tang toc I2A search. Neu dang o 1.8.4.79 thi auto-update la du. Duoi 1.8.4.78 can cap nhat goi lib hoac cai full tu Drive."
+  "notes": "v1.8.4.80 - Hotfix AI Assist + Tăng tốc I2A search\n\n- Fix AI Assist ổn định hơn cho gói Pro (tối ưu prompt, giảm token/session)\n- Tăng tốc search texture trong I2A (tự động tạo thumbnail, không ảnh hưởng index cũ)\n- Fix I2I chỉ ra 1 ảnh trên máy chậm\n\nNếu đang ở v1.8.4.79: yên tâm, auto-update là đủ.\nNếu đang ở v1.8.4.78 trở xuống: cần cập nhật gói thư viện Python (tải tại Drive) hoặc cài lại bản full từ Drive."
 }
