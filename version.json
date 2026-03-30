@@ -1,7 +1,7 @@
 {
-  "version": "1.8.4.83",
+  "version": "1.8.4.85",
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.latest/AH3_Hub_v1.8.4_Update.ah3",
-  "sha256": "f0ce2e6db9fc89df38f0da2944d4c570ce9cbc9a6844376f6862e491b9f8fa51",
-  "date": "2026-03-23",
-  "notes": "v1.8.4.83 - Smart PBR + Google Flow + License V3 Moi: - Smart PBR Auto-Load: keo texture PBR vao Material Tab -> tu dong load toan bo map cung bo (CGAxis, Poliigon, Megascans, ambientCG, Poly Haven) - Keo thu muc -> tu tim diffuse va load bo PBR, AI chi tao map con thieu - Keo thu muc vao I2A -> tu dong index toan bo (chon loai: Texture/Model/HDRI) - Google Flow Tab: tao anh/video AI ngay trong 3ds Max [Pro] - Ban quyen V3: he thong 2 khoa moi (HWID + Subscription) [Pro] - I2A: index texture trong archive .zip/.rar/.7z - I2A: chuot phai ket qua -> Tao Bitmap hoac Material Cai thien: - Tim kiem texture I2A nhanh hon 30 lan - AI-Assist phan hoi nhanh hon Sua loi: - Sua loi tao nhieu anh I2I tren may cham - Sua menu chuot phai I2A khong load duoc - Sua Flow Tab mat dang nhap sau restart"
+  "sha256": "9c4e2c75c0343a5f800c861e594732c24b12c25929e5d785a85f3cc91147b94c",
+  "date": "2026-03-30",
+  "notes": "v1.8.4.85 (2026-03-30) - On dinh tinh nang tao anh 3K (AH3 Pro GW) - Cai thien do chinh xac index file nen (phan loai theo noi dung that) - Tu dong xac nhan dialog upload anh - Cai thien chat luong Seamless Tiling - Kich thuoc Hub tu dong theo man hinh - Sua loi quyen truy cap thu muc cai dat"
 }
