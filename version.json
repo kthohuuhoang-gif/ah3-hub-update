@@ -1,7 +1,7 @@
 {
-  "version": "1.8.4.85",
+  "version": "1.8.4.86",
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.latest/AH3_Hub_v1.8.4_Update.ah3",
-  "sha256": "9c4e2c75c0343a5f800c861e594732c24b12c25929e5d785a85f3cc91147b94c",
-  "date": "2026-03-30",
-  "notes": "v1.8.4.85 (2026-03-30) - On dinh tinh nang tao anh 3K (AH3 Pro GW) - Cai thien do chinh xac index file nen (phan loai theo noi dung that) - Tu dong xac nhan dialog upload anh - Cai thien chat luong Seamless Tiling - Kich thuoc Hub tu dong theo man hinh - Sua loi quyen truy cap thu muc cai dat"
+  "sha256": "a773979b5ef4cd5c401f03695a7b6e1c6234e288b9cf12f4608be23c881955f6",
+  "date": "2026-04-06",
+  "notes": "AH3 Hub v1.8.4.86 - AI Studio v2.3.1 Cap nhat 06/04/2026 Smart Merge v1.4.0: Truoc day khi merge model tu I2A, he thong quet toan bo texture trong scene de relink - co the anh huong vat lieu khong lien quan. Gio chi quet texture cua model vua merge. Ngoai ra toi uu pham vi tim texture - bo qua scan khi thu muc cha la goc o dia. Sua menu chuot phai I2A hien sai chuc nang theo loai asset (VD: file nen texture truoc hien "Merge to Scene", gio chi hien dung "Create Bitmap/Material"). Nhan dien file nen chua .vrscene la model. Dem chinh xac anh loi khi index. Cap nhat: Settings > Check for Update"
 }
