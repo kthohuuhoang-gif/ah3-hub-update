@@ -1,7 +1,7 @@
 {
-  "version": "1.8.4.86",
-  "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.4.latest/AH3_Hub_v1.8.4_Update.ah3",
-  "sha256": "a773979b5ef4cd5c401f03695a7b6e1c6234e288b9cf12f4608be23c881955f6",
-  "date": "2026-04-06",
-  "notes": "AH3 Hub v1.8.4.86 - AI Studio v2.3.1 Cap nhat 06/04/2026 Smart Merge v1.4.0: Truoc day khi merge model tu I2A, he thong quet toan bo texture trong scene de relink - co the anh huong vat lieu khong lien quan. Gio chi quet texture cua model vua merge. Ngoai ra toi uu pham vi tim texture - bo qua scan khi thu muc cha la goc o dia. Sua menu chuot phai I2A hien sai chuc nang theo loai asset (VD: file nen texture truoc hien "Merge to Scene", gio chi hien dung "Create Bitmap/Material"). Nhan dien file nen chua .vrscene la model. Dem chinh xac anh loi khi index. Cap nhat: Settings > Check for Update"
+  "version": "1.8.5.01",
+  "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.latest/AH3_Hub_v1.8.4_Update.ah3",
+  "sha256": "6cbdf492b1e7e75d6e16e2a3cc939e90f05651f3d8a19d7fdd2a4113dd25727c",
+  "date": "2026-04-16",
+  "notes": "Ban cap nhat AH3 Hub v1.8.5.01 toi uu manh me: AI-Assist nho ngu canh va phan hoi nhanh; tao anh hien thi tuc thi; them phim tat thong minh tu viet prompt. Nano Banana Upscale nang cap do phan giai 10K, ho tro so sanh AB dong bo va tang gioi han file len 100MB."
 }
