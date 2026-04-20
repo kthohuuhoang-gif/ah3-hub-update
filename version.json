@@ -1,7 +1,7 @@
 {
-  "version": "1.8.5.05",
+  "version": "1.8.5.07",
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.latest/AH3_Hub_v1.8.latest_Update.ah3",
-  "sha256": "c4b326bfac0c98f16e2f8852daed29afc51dce668314c1b5d0c53cbc9a7a665c",
-  "date": "2026-04-18",
-  "notes": "Update 1.8.5.05 Hotfix Ban cap nhat AH3 Hub v1.8.5 toi uu manh me: AI-Assist nho ngu canh va phan hoi nhanh; tao anh hien thi tuc thi; them phim tat thong minh tu viet prompt. Nano Banana Upscale nang cap do phan giai 10K, ho tro so sanh AB dong bo va tang gioi han file len 100MB"
+  "sha256": "4147af42a614ca33a0178ca616d04a3f4069205bc986a08d19e9794e0b84edf9",
+  "date": "2026-04-20",
+  "notes": "Update 1.8.5.07 Hotfix Ban cap nhat AH3 Hub v1.8.5 toi uu manh me: AI-Assist nho ngu canh va phan hoi nhanh; tao anh hien thi tuc thi; them phim tat thong minh tu viet prompt. Nano Banana Upscale nang cap do phan giai 10K, ho tro so sanh AB dong bo va tang gioi han file len 100MB"
 }
