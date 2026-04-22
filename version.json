@@ -1,7 +1,7 @@
 {
-  "version": "1.8.5.10",
+  "version": "1.8.5.11",
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.latest/AH3_Hub_v1.8.latest_Update.ah3",
-  "sha256": "7adaf1e6d6e20536316390578df44c2a4779991525dd5d5e0dad3aa9e51dab74",
+  "sha256": "e921dac20f0244ad7efd9d0c85c89285382b3f1c670c4f31467eafb0becb85f8",
   "date": "2026-04-22",
-  "notes": "Ban update 1.8.5.10. Nang cap tinh nang Quick Render cho chat luong anh ra final tot hon. Ho tro them chi tiet, bam sat setting cua nguoi dung corona. Hien Support Corona render. Se support cac trinh render khac trong tuong lai gan. "
+  "notes": "Hotfix 1.8.5.11 Sua loi ti le render. Ban nang cap 1.8.5.1x Bo sung them che do Quick render (Ctrl vao nut Quick). Support tot nhat cho nguoi dung Corona"
 }
