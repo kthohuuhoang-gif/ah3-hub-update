@@ -1,7 +1,7 @@
 {
-  "version": "1.8.5.20",
+  "version": "1.8.5.21",
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.latest/AH3_Hub_v1.8.latest_Update.ah3",
-  "sha256": "949596c99ea3202ce4189b1c75e2f1c1b81bc353639dc1abc5e94264d7bfe4e4",
+  "sha256": "2459bc0a0414576b07e5e8a7c96ee1b6d42f36b5854626980b93b075537632bd",
   "date": "2026-05-05",
-  "notes": "1.8.5.20 Ban update lon bo sung AI Local va cac tinh nang dac biet cho Upscale"
+  "notes": "1.8.5.2x Ban update lon bo sung tinh nang AI Local, dong thoi 1.8.5.21 la ban hotfix sua loi thieu dll khi khoi chay Ai Local"
 }
