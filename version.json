@@ -1,7 +1,7 @@
 {
-  "version": "1.8.5.11",
+  "version": "1.8.5.20",
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.latest/AH3_Hub_v1.8.latest_Update.ah3",
-  "sha256": "e921dac20f0244ad7efd9d0c85c89285382b3f1c670c4f31467eafb0becb85f8",
-  "date": "2026-04-22",
-  "notes": "Hotfix 1.8.5.11 Sua loi ti le render. Ban nang cap 1.8.5.1x Bo sung them che do Quick render (Ctrl vao nut Quick). Support tot nhat cho nguoi dung Corona"
+  "sha256": "949596c99ea3202ce4189b1c75e2f1c1b81bc353639dc1abc5e94264d7bfe4e4",
+  "date": "2026-05-05",
+  "notes": "1.8.5.20 Ban update lon bo sung AI Local va cac tinh nang dac biet cho Upscale"
 }
