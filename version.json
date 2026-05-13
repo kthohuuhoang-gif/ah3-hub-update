@@ -1,7 +1,7 @@
 {
-  "version": "1.8.5.22",
+  "version": "1.8.5.25",
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.latest/AH3_Hub_v1.8.latest_Update.ah3",
-  "sha256": "b014f04da34ddf1edb63048e3995dab8a46fb9e1ccb1a5f6fa449cfb2a2b24c8",
-  "date": "2026-05-06",
-  "notes": "Ban update hotfix dieu chinh download cho AI Local"
+  "sha256": "9642e919f1bfa6c227724141858f8f70250325bf2b197eac283e7bec97826001",
+  "date": "2026-05-13",
+  "notes": "Ban update mo rong va toi uu hinh anh tham chieu. "
 }
