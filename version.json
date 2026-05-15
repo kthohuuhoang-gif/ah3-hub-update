@@ -1,7 +1,7 @@
 {
-  "version": "1.8.5.25",
+  "version": "1.8.5.30",
   "url": "https://github.com/kthohuuhoang-gif/ah3-hub-update/releases/download/v1.8.latest/AH3_Hub_v1.8.latest_Update.ah3",
-  "sha256": "9642e919f1bfa6c227724141858f8f70250325bf2b197eac283e7bec97826001",
-  "date": "2026-05-13",
-  "notes": "Ban update mo rong va toi uu hinh anh tham chieu. "
+  "sha256": "a98fe3302edd1851c18bb20cd2285bf4e74c96ed143e25e7ca69c9768ea70ccd",
+  "date": "2026-05-15",
+  "notes": "Bo sung Lora phu hop voi nhieu boi canh khac nhau. Toi uu Quick Render. Bo sung them setting moi"
 }
